@@ -6,6 +6,7 @@ public class June7PracticeGit {
         System.out.println(3-2);
         System.out.println("Code here");
         System.out.println("Code there");
+        System.out.println("Code is everywhere");
 
     }
 }
