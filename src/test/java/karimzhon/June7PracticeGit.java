@@ -5,6 +5,7 @@ public class June7PracticeGit {
         System.out.println("Hello class");
         System.out.println(3-2);
         System.out.println("Code here");
+        System.out.println("Code there");
 
     }
 }
